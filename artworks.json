@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "./artwork/sketch-1.jpg",
+    "title": "",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "imageUrl": "./artwork/sketch-2.jpeg",
+    "title": "",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "imageUrl": "./artwork/sketch-3.jpg",
+    "title": "",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "imageUrl": "./artwork/sketch-4.jpg",
+    "title": "",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "imageUrl": "./artwork/sketch-5.jpg",
+    "title": "",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "imageUrl": "./artwork/sketch-6.jpg",
+    "title": "",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "imageUrl": "./artwork/sketch-7.jpeg",
+    "title": "",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "imageUrl": "./artwork/sketch-8.jpg",
+    "title": "",
+    "description": ""
+  },
+  {
+    "id": 9,
+    "imageUrl": "./artwork/sketch-9.jpg",
+    "title": "",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "imageUrl": "./artwork/sketch-10.jpg",
+    "title": "",
+    "description": ""
+  },
+  {
+    "id": 11,
+    "imageUrl": "./artwork/sketch-11.jpg",
+    "title": "",
+    "description": ""
+  }
+]
